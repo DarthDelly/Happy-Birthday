@@ -1,0 +1,22 @@
+div.Hers {
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+    color: goldenrod;
+}
+div.bday {
+    margin-left: 7%;
+    margin-right: 7%;
+    background-color: rgba(24, 24, 27, 0.5); color: #ffffff;
+    justify-content: center;
+}
+div.Her {
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+}
+body {
+    background-image: url(Images/back.webp);
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
